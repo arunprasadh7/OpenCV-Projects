@@ -1,0 +1,38 @@
+# Visual Studio Code
+
+.vscode/
+
+# OpenCV build directory
+
+build/
+
+# Compiled files
+
+_.o
+_.obj
+_.exe
+_.dll
+
+# Compiled Python files
+
+\*.pyc
+**pycache**/
+
+# Compiled CMake files
+
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+install_manifest.txt
+
+# OpenCV generated files
+
+opencv/build/
+
+# macOS
+
+.DS_Store
+
+# Windows
+
+Thumbs.db
